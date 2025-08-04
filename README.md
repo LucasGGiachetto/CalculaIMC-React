@@ -1,4 +1,4 @@
-# ⚖Calculadora IMC (Índice de Massa Corporal)
+# Calculadora IMC (Índice de Massa Corporal)
 
 
 ## Funcionalidades
@@ -18,3 +18,4 @@ cd calculadora-imc
 npm install
 npm start
 ```
+
